@@ -21,8 +21,17 @@ nav {
   width: 420px;
 }
 
+.arrow-left {
+  font-size: 10px;
+}
+
 .arrow {
   float: right;
+  font-size: 10px;
+}
+
+.fa-2x { 
+  margin-top: 10px;
 }
 
 .restaurant-list {
@@ -36,7 +45,7 @@ nav {
   border-bottom: .5px black;
   float: inherit;
   margin-top: 1px;
-  padding: 3%;
+  padding: 5%;
 }
 
 .location:hover { background-color: #a0a0a0; }
